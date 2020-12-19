@@ -5,12 +5,12 @@
         "tilemapTile": true
     },
     "tile1": {
-        "data": "hwQQABAAAACIiFiIiIWIWIiIVYiIhYhViIiFiFiIiFWIiIWIWIiIhYhYhYhYiIiFiFiIiFiFiIWIVYiIWIWIhYgViIhViFGFGIWIGBUYhYWIVYgYVYhYVYhYhYhYiIhYiIiFiFiFiFiIiFWIiIWIWIiIWIiIhYhViIhYhYhViFiIiIiFiFiIWA==",
+        "data": "hwQQABAAAACIiFiIiIiIhYiIWIiIiFiIiIiFiIiIhYiIiIWIiIiFiIhYiIiIWIiIiBiIiIiFiIiIgYiIGIiIiIiFiIgYiIiIGIiIiFiIiIiIhYiIiIWIiIhYiIiIhYiIiFiIiIhYiIiIiIWIiIiFiIiIWIiIiIWIiIiIhYiIWIiIiIiFiIiIhQ==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
     "tile2": {
-        "data": "hwQQABAAAACIiIiFiIWIWIiIWIWIhYiFiIhYiFiFiIWIiFiIVYiIhYiIWIiFiIiFiIhViIWIWIWIVYWIVYhViIhYhYhViFGFiBhViIWIEYWIiFiIVYgYhYiIVYhYiFhViIiFiFiIiFiIiFiIWIWIWIiIWIWIhYhYiIiIhYhViFiIiIiFiFiIWA==",
+        "data": "hwQQABAAAACIiIhYiIhYiIiIiIWIiIWIiIhYiIhYiIiIiFiIiFiIiIiIhYiIhYiIiFiIiIiFiIiIhYiIWIiIiIiBiIiFiIiIiBiIiBiIiIiIGIiIiIWIiIiIhYiIWIiIiIiFiIhYiIiIiFiIiIiFiIiIWIiIiFiIiIiIhYiIiIWIiIiFiIiIhQ==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
